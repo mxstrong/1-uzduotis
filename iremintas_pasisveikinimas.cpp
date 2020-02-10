@@ -3,7 +3,7 @@ using namespace std;
 
 bool isWoman(string name) {
   int lastLetterNumber = name.length() - 1;
-  if (tolower(name[lastLetterNumber]) == 'a' || tolower(name[lastLetterNumber]) == 'e') {
+  if (name[lastLetterNumber] == 'a' || name[lastLetterNumber] == 'e') {
     return true;
   }
   return false;
