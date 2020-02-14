@@ -4,19 +4,19 @@
 Program allows user to enter his name and greets him with nice frame with adjusted length and user's chosen width.
 
 ## Release history:
-v0.1
+[v0.1](https://github.com/mxstrong/1-uzduotis/releases/tag/v0.1)
 Program allows user to enter his name and greets him in Lithuanian with nice adjusted length frame of 5 lines width.
 
-v0.1.1
+[v0.1.1](https://github.com/mxstrong/1-uzduotis/releases/tag/v0.1.1)
 Program's main file is now named more properly.
 
-v0.2
+[v0.2](https://github.com/mxstrong/1-uzduotis/releases/tag/v0.2)
 User's greeting is now customised based on his gender.
 
-v0.2.1
+[v0.2.1](https://github.com/mxstrong/1-uzduotis/releases/tag/v0.2.1)
 User is now allowed to enter his name in all uppercase letters.
 
-v1.0
+[v1.0](https://github.com/mxstrong/1-uzduotis/releases/tag/v1.0)
 User is now able to choose width of the frame and all greeting is stored in vector of strings.
 
 ## Installiation and usage
